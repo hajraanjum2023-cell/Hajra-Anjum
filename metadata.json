@@ -1,0 +1,7 @@
+{
+  "name": "HealthyLife GP Assistant",
+  "description": "A sophisticated AI-powered chatbot for booking and managing GP appointments, featuring specialized scheduling logic for three doctors and comprehensive patient guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
